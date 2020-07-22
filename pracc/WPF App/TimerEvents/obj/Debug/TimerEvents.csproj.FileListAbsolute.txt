@@ -1,0 +1,15 @@
+E:\VS Projects\pracc\wpf app\TimerEvents\bin\Debug\TimerEvents.exe.config
+E:\VS Projects\pracc\wpf app\TimerEvents\bin\Debug\TimerEvents.exe
+E:\VS Projects\pracc\wpf app\TimerEvents\bin\Debug\TimerEvents.pdb
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\MainWindow.g.cs
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\App.g.cs
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.cache
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.lref
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\MainWindow.baml
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\TimerEvents.g.resources
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.cache
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\TimerEvents.exe
+E:\VS Projects\pracc\wpf app\TimerEvents\obj\Debug\TimerEvents.pdb

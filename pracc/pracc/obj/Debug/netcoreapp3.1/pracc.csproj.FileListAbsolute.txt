@@ -1,0 +1,13 @@
+E:\VS Projects\pracc\pracc\bin\Debug\netcoreapp3.1\pracc.exe
+E:\VS Projects\pracc\pracc\bin\Debug\netcoreapp3.1\pracc.deps.json
+E:\VS Projects\pracc\pracc\bin\Debug\netcoreapp3.1\pracc.runtimeconfig.json
+E:\VS Projects\pracc\pracc\bin\Debug\netcoreapp3.1\pracc.runtimeconfig.dev.json
+E:\VS Projects\pracc\pracc\bin\Debug\netcoreapp3.1\pracc.dll
+E:\VS Projects\pracc\pracc\bin\Debug\netcoreapp3.1\pracc.pdb
+E:\VS Projects\pracc\pracc\obj\Debug\netcoreapp3.1\pracc.csprojAssemblyReference.cache
+E:\VS Projects\pracc\pracc\obj\Debug\netcoreapp3.1\pracc.AssemblyInfoInputs.cache
+E:\VS Projects\pracc\pracc\obj\Debug\netcoreapp3.1\pracc.AssemblyInfo.cs
+E:\VS Projects\pracc\pracc\obj\Debug\netcoreapp3.1\pracc.csproj.CoreCompileInputs.cache
+E:\VS Projects\pracc\pracc\obj\Debug\netcoreapp3.1\pracc.dll
+E:\VS Projects\pracc\pracc\obj\Debug\netcoreapp3.1\pracc.pdb
+E:\VS Projects\pracc\pracc\obj\Debug\netcoreapp3.1\pracc.genruntimeconfig.cache

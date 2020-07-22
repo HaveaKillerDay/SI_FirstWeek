@@ -1,0 +1,13 @@
+E:\VS Projects\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.csprojAssemblyReference.cache
+E:\VS Projects\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.AssemblyInfoInputs.cache
+E:\VS Projects\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.AssemblyInfo.cs
+E:\VS Projects\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.csproj.CoreCompileInputs.cache
+E:\VS Projects\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.exe
+E:\VS Projects\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.deps.json
+E:\VS Projects\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.runtimeconfig.json
+E:\VS Projects\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.runtimeconfig.dev.json
+E:\VS Projects\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.dll
+E:\VS Projects\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.pdb
+E:\VS Projects\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.dll
+E:\VS Projects\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.pdb
+E:\VS Projects\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.genruntimeconfig.cache
